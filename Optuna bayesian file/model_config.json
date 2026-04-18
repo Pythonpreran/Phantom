@@ -1,0 +1,32 @@
+{
+  "threshold": 0.85,
+  "macro_f1": 0.934535,
+  "roc_auc": 0.98478,
+  "accuracy": 0.935116,
+  "fpr": 0.064459,
+  "fnr": 0.06523,
+  "features_after_selection": 18,
+  "features_before_selection": 206,
+  "best_params": {
+    "n_estimators": 565,
+    "max_depth": 9,
+    "learning_rate": 0.10861961968173561,
+    "num_leaves": 214,
+    "subsample": 0.8651250666290946,
+    "colsample_bytree": 0.9354348266823662,
+    "min_child_samples": 58,
+    "reg_alpha": 0.19328930831060537,
+    "reg_lambda": 0.1950453292697443,
+    "random_state": 42,
+    "verbose": -1,
+    "n_jobs": -1
+  },
+  "train_shape": [
+    175341,
+    44
+  ],
+  "test_shape": [
+    82332,
+    44
+  ]
+}

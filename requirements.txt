@@ -1,0 +1,20 @@
+# PHANTOM — Dependencies
+# Core
+faker==25.0.0
+python-dateutil
+
+# ML / AI
+torch>=2.2.0
+scikit-learn>=1.4.0
+shap>=0.45.0
+numpy>=1.26.0
+
+# LLM
+ollama>=0.1.8
+
+# Dashboard
+streamlit>=1.35.0
+plotly>=5.22.0
+
+# Data
+pandas>=2.2.0
